@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bilal Şahin</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 
+<p align="center">
+  In the software world, I develop iOS applications with the passion of making users' lives easier and creating value for businesses with mobile technologies. In my career, I have had the opportunity to create applications optimized in terms of user experience and performance by taking part in projects in different sectors. I aim to deliver innovative solutions using Swift and SwiftUI and other modern iOS development tools.
+</p>
+
 - 🔭 I’m currently working on **iOS**
 
 - 📫 How to reach me **sbsahin0827@gmail.com**
